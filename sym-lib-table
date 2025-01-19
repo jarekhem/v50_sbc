@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IC")(type "KiCad")(uri "E:/privateGIT/v50_sbc/lib/IC.kicad_sym")(options "")(descr ""))
+)
